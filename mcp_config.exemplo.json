@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "livraria_inteligente": {
+      "command": "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\livraria-etapa1-venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\Felipe Carneiro\\OneDrive\\Desktop\\PASTA PRINCIPAL DEV\\Xperium\\MBA-Business-Intelligence-and-Analytics360\\Aulas-Encontros OnLine\\Encontro 10 - SQL, Arquitetura Medalhao e Agentes Text-to-SQL com IA\\Projeto - Teste\\05_mcp_server.py"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
